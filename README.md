@@ -3,4 +3,4 @@ Bake vertex weight in vertex colour for barycentric coordinates computation in s
 
 ![Screenshot](/BaryCoords_Blender.png)
 
-![Screenshot](/WireframeMonkey.jpg)
+![Image](/WireframeMonkey.jpg)
